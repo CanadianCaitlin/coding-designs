@@ -3,6 +3,7 @@
 One of my goals for 2021 is to find my currency for giving back to the world. While completing my coding bootcamp at Hackbright Academy, I scribbled-down a few coding jokes, puns, and expressions when learning new languages, such as Python, Javascript, etc. I'll be creating an Etsy shop to display these ideas on t-shirts, tank tops, face masks, etc. Hopefully, this can provide a smile or laugh to a current or future programmer. 
 
 100% of proceeds will go to various charities, including:
+
 🌍 Dare to Innovate (http://daretoinnovate.com/): A youth-led movement to end unemployment in Africa.
 
 🍎 Five Keys (https://www.fivekeyscharter.org/): provides traditionally underserved communities the opportunity to improve their lives through a focus on the Five Keys: EDUCATION, EMPLOYMENT, RECOVERY, FAMILY, COMMUNITY.
