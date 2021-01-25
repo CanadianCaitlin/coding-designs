@@ -4,7 +4,9 @@ One of my goals for 2021 is to find my currency for giving back to the world. Wh
 
 100% of proceeds will go to various charities, including:
 🌍 Dare to Innovate (http://daretoinnovate.com/): A youth-led movement to end unemployment in Africa.
+
 🍎 Five Keys (https://www.fivekeyscharter.org/): provides traditionally underserved communities the opportunity to improve their lives through a focus on the Five Keys: EDUCATION, EMPLOYMENT, RECOVERY, FAMILY, COMMUNITY.
+
 💙 Alpha Project (https://www.alphaproject.org/): Alpha Project strives not to manage homelessness, but rather to end it for its clients by offering jobs not handouts, respect not pity and empowerment not control. We provide the homeless with the tools they need to be the very best they can be.
 
 If you would like to collaborate on this project or a future project, please do not hesitate to contact me on LinkedIn: https://www.linkedin.com/in/caitlinawright/.
