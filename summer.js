@@ -1,0 +1,6 @@
+while (summer) {
+    goCamping(⛺️);
+    bbq(🍗);
+    
+
+}

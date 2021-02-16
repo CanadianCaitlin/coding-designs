@@ -18,3 +18,5 @@ If you would like to collaborate on this project or a future project, please do 
 💅 thank-u-next.js (inspiration: Ariana Grande's song "thank u, next")
 
 🥂 2021.js (inspiration: all the various current and future events anticipate for 2021)
+
+🌞 summer.js (inspiration: good weather, bbq, nature, and enjoying life)
